@@ -1,0 +1,65 @@
+export const data = [
+    {
+      "name": "Product 1",
+      "url": "/images/laptop1.png",
+      "description": "The price of the product is 2236 and the previous users have given 4.3 rating",
+      "date": "Available from 2024-01-01",
+      "type": "Windows",
+    },
+    {
+      "name": "Product 2",
+      "url": "/images/laptop2.png",
+      "description": "The price of the product is 1236 and the previous users have given 4.1 rating",
+      "date": "Available from  2024-01-02",
+      "type": "Linux",
+    },
+    {
+      "name": "Product 3",
+      "url": "/images/laptop3.png",
+      "description": "The price of the product is 5236 and the previous users have given 4.5 rating",
+      "date": "Available from  2024-01-03",
+      "type": "MacBook",
+    },
+    {
+      "name": "Product 4",
+      "url": "/images/laptop4.png",
+      "description": "The price of the product is 1439 and the previous users have given 3.8 rating",
+      "date": "Available from  2024-01-04",
+      "type": "Windows",
+    },
+    {
+      "name": "Product 5",
+      "url": "/images/laptop5.png",
+      "description": "The price of the product is 3336 and the previous users have given 4.1 rating",
+      "date": "Available from  2024-01-05",
+      "type": "Linux",
+    },
+    {
+      "name": "Product 6",
+      "url": "/images/laptop6.png",
+      "description": "The price of the product is 3236 and the previous users have given 4.4 rating",
+      "date": "Available from  2024-01-06",
+      "type": "Zenbook",
+    },
+    {
+      "name": "Product 7",
+      "url": "/images/laptop7.png",
+      "description": "The price of the product is 4566 and the previous users have given 4.9 rating",
+      "date": "Available from  2024-01-07",
+      "type": "MacBook",
+    },
+    {
+      "name": "Product 8",
+      "url": "/images/laptop8.png",
+      "description": "The price of the product is 4656 and the previous users have given 4.3 rating",
+      "date": "Available from  2024-01-08",
+      "type": "Windows",
+    },
+    {
+      "name": "Product 9",
+      "url": "/images/laptop9.png",
+      "description": "The price of the product is 1136 and the previous users have given 3.4 rating",
+      "date": "Available from  2024-01-09",
+      "type": "Windows",
+    }
+  ]
